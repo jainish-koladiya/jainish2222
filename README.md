@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jainish Koladiya
+# 👋 Hi, I'm Jainish
 
 Software Engineer with 5+ years of experience building scalable, high-performance, enterprise-grade web applications and AI-powered features.
 
